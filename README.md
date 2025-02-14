@@ -1,7 +1,7 @@
 # senpro_b3_14
 deskripsi singkat
 
-Kelompok 
-Ketua Kelompok :
-Anggota 1: Nashatra Aqila Ramadhani - 22/504580/TK/55195
-Anggota 2:
+Kelompok <br />
+Ketua Kelompok : <br />
+Anggota 1: Nashatra Aqila Ramadhani - 22/504580/TK/55195 <br />
+Anggota 2: <br />
